@@ -1,3 +1,3 @@
-# [GitItDone] (https://github.com/Danielebp/GitItDone/blob/master/README.md#gititdone)
+# [GitItDone] 
 Encryption module for TortoiseGit following the Information Obscurity Security Pattern.
 
